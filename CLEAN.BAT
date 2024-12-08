@@ -1,0 +1,5 @@
+DEL *.OBJ
+DEL *.BAK
+DEL *.LST
+DEL *.LIB
+

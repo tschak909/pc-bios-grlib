@@ -1,0 +1,22 @@
+_gr_bar...........gr_bar            _gr_box...........gr_box
+_gr_line..........gr_line           _gr_mode..........gr_mode
+_gr_pset..........gr_pset           _gr_text..........gr_text
+
+
+gr_mode           Offset: 00000010H  Code and data size: 3aH
+  _gr_mode        
+
+gr_pset           Offset: 00000160H  Code and data size: 35H
+  _gr_pset        
+
+gr_text           Offset: 000002a0H  Code and data size: 60H
+  _gr_text        
+
+gr_line           Offset: 00000410H  Code and data size: fbH
+  _gr_line        
+
+gr_bar            Offset: 00000620H  Code and data size: 54H
+  _gr_bar         
+
+gr_box            Offset: 00000780H  Code and data size: 65H
+  _gr_box         
